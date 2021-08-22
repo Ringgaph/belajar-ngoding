@@ -2,3 +2,4 @@ BELAJAR NGODING
 - Bisa menggunakan git dan git hub
 - Paham dalam Codeigniter 3 dan Boostrap
 - Paham dalam membuat PHP HTML
+- Bisa Membuat System Admin suatu Perusahaan
